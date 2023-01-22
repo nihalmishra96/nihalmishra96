@@ -1,6 +1,6 @@
-## Hi 👋, I'm Nihal Mishra
+
 <div align="center">
-    Any Text/Card/Item
+    ## Hi 👋, I'm Nihal Mishra
 </div>
 
 - 🔭  I’m currently working on Software Development for Data Scientists
