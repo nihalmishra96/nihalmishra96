@@ -1,4 +1,4 @@
-#Hi 👋, I'm Nihal Mishra
+## Hi 👋, I'm Nihal Mishra
 
 
 - 🔭  I’m currently working on Software Development for Data Scientists
