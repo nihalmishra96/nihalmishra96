@@ -3,8 +3,8 @@
 
 - 🔭  I’m currently working on Software Development for Data Scientists
 - 🌱 Specialties: <br>
-      + NLP, Machine learning and Predictive Modelling: <br>
-        * Linear Regression <br>
+   - NLP, Machine learning and Predictive Modelling: <br>
+        - Linear Regression <br>
         - Penalized Models (Ridge, Lasso) <br>
         - Logistic Regression <br>
         - KNN <br>
