@@ -2,7 +2,14 @@
 
 
 - 🔭  I’m currently working on Software Development for Data Scientists
-- 🌱 I’m proficient in Python, SQL, R, Tableau and Excel
+- 🌱 Specialties:
++ NLP, Machine learning and Predictive Modelling - Linear Regression, Penalized Models (Ridge, Lasso), Logistic 
+ Regression, KNN, Naïve Bayes, Tree based Models, Random Forest, Clustering Techniques, Linear 
+ Optimization.
++ R, Python, SQL
++ Data Mining
++ Regression, Clustering, Tree based ensemble models, Principal component analysis
+
 - 👯 I’m interested in applications of ML in Data Science
 - 📫 Reach me at: nihalmis@buffalo.edu
 
