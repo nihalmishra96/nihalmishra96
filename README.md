@@ -18,6 +18,5 @@
         - Clustering Techniques 
 
 - 👯 I’m interested in applications of ML in Data Science
-- 📫 Reach me at: nihalmis@buffalo.edu
-
+- 📫 Reach me at: nihalmish96@gmail.com
 
