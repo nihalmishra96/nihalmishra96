@@ -7,6 +7,8 @@
 - 🌱 Specialties: <br>
    - NLP, Machine learning and Predictive Modelling: <br>
         - Linear Regression <br>
+        - Neural Networks  <br>
+        - ML Optimization Regression <br>
         - Penalized Models (Ridge, Lasso) <br>
         - Logistic Regression <br>
         - KNN <br>
