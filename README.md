@@ -4,12 +4,11 @@
 
 
 - 🔭  I’m currently working on Software Development for Data Scientists
-```
 - 🌱 Specialties: 
    - NLP, Machine learning and Predictive Modelling: 
         - Linear Regression 
         - Neural Networks  
-        - ML Optimization Regression 
+        - ML Optimization  
         - Penalized Models (Ridge, Lasso) 
         - Logistic Regression 
         - KNN 
@@ -17,7 +16,6 @@
         - Tree based Models 
         - Random Forest 
         - Clustering Techniques 
-```
 
 - 👯 I’m interested in applications of ML in Data Science
 - 📫 Reach me at: nihalmis@buffalo.edu
