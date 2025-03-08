@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihal Mishra</h1>
 
 <h2 align="center" style="font-size: 10px;">Machine Learning Engineer | Data Science Enthusiast | Deep Learning Enthusiast</h2>
+<br><br>
 
 
 - 🔭  I’m currently working on Software Development for Data Scientists
