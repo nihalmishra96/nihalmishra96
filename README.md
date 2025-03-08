@@ -1,4 +1,4 @@
-## Hi 👋, I'm Nihal Mishra
+<h1 align="center" Hi 👋, I'm Nihal Mishra</h1>
 
 <h1 align="center">Machine Learning Engineer | Data Science Enthusiast | Deep Learning Enthusiast</h1>
 
