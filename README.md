@@ -1,5 +1,6 @@
 ## Hi 👋, I'm Nihal Mishra
 
+Machine Learning Engineer | Data Science Enthusiast | Deep Learning Enthusiast
 
 - 🔭  I’m currently working on Software Development for Data Scientists
 - 🌱 Specialties: <br>
