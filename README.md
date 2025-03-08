@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Nihal Mishra
 
-I'm a **Machine Learning Engineer** and **Data Science Enthusiast** with experience in deep learning, cloud technologies, and data analytics. Passionate about building AI-driven solutions and leveraging data to drive insights.
+<h1 align="center">Machine Learning Engineer | Data Science Enthusiast | Deep Learning Enthusiast</h1>
 
 - 🔭  I’m currently working on Software Development for Data Scientists
 - 🌱 Specialties: <br>
